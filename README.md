@@ -4,5 +4,8 @@ A basic concept of an encryption algorithm
 
 ## Table of Contents
 
-### Build (bld)
+### Error Code
+
+### Build
+
 ### Source (src)
